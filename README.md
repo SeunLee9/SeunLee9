@@ -2,7 +2,7 @@
 
 
 # Interest in 🧐</br>
-### o be the best</br>
+### To be the best</br>
 # Strength 💪
 ### Grit
 
