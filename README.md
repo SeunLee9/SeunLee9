@@ -2,6 +2,8 @@
 
 
 # Interested in 🧐</br>
+### DBA
+### Data engineering
 ### To be the best</br>
 # Strength 💪
 ### Grit
