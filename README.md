@@ -1,17 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Seun's%20github&fontSize=75)
 
-</hr>
+
+
+
 # Interested in 🧐</br>
 ### DBA
 ### Data engineering
-</hr>
+
+
 ### To be the best</br>
 # Strength 💪
 ### Grit
-</hr>
+
+
 # Learning...
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-</hr>
+
+
 
 # Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
