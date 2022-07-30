@@ -9,9 +9,6 @@
 
 
 ### To be the best</br>
-# Strength 💪
-### Grit
-
 
 
 # Tech Stack
